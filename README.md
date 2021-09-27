@@ -40,8 +40,8 @@ My name is Jayce Dugan and I'm Software Developer. I'm from the Gold Coast, livi
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayceDugan&repo=GPU-Temperature-Monitor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/JayceDugan/IO-Task-Vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayceDugan&repo=IO-Task-Vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
