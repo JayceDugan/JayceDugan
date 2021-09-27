@@ -45,7 +45,7 @@ My name is Jayce Dugan and I'm Software Developer. I'm from the Gold Coast, livi
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: https://i.imgur.com/7tVYAeF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
