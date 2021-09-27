@@ -6,9 +6,10 @@
 
 My name is Jayce Dugan and I'm Software Developer. I'm from the Gold Coast, living in Brisbane and currently working at Aspedia Australia. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+<!--
 ## &#x270d; Blog & Writing
 
-<!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
+ Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
