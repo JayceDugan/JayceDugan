@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jayce Dugan and I'm Software Developer. I'm from the Gold Coast, living in Brisbane and currently working at Aspedia Australia. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Jayce Dugan and I'm a Software Developer from the Gold Coast, living in Brisbane and currently working at Aspedia Australia. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!--
 ## &#x270d; Blog & Writing
