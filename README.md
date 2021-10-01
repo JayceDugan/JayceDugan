@@ -4,7 +4,7 @@
 
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Front End Software Developer living in Brisbane and currently working at Aspedia Australia on a wide range of ecommerce solutions for wineries using VueJS and GraphQL. You can find me on [![Twitter][1.2]][1]  or [![LinkedIn][3.2]][3].
+I'm a Front End Software Developer living in Brisbane and currently working for Vincreative Australia to implement and improve Unified DTC ecommerce solutions for wineries using VueJS, GraphQL and NuxtJS. You can find me on [![Twitter][1.2]][1]  or [![LinkedIn][3.2]][3].
 
 <!--
 ## &#x270d; Blog & Writing
