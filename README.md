@@ -36,8 +36,8 @@ I'm a Front End Software Developer living in Brisbane and currently working for 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayceDugan&repo=IO-Task-Vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<a href="https://github.com/JayceDugan/OzBargainScraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayceDugan&repo=OzBargainScraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/JayceDugan/Cryptocurrency-Exchange">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayceDugan&repo=Cryptocurrency-Exchange&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
