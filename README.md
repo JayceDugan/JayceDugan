@@ -36,10 +36,6 @@ I'm a Software Engineer living in Brisbane and currently working for the amazing
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayceDugan&repo=IO-Task-Vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<a href="https://github.com/JayceDugan/UnityGaming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayceDugan&repo=UnityGaming&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
