@@ -4,7 +4,7 @@
 
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm a Software Engineer living in Brisbane and currently working for the amazing team at [Canva](https://www.canva.com/about/). You can find me on [![Twitter][1.2]][1]  or [![LinkedIn][3.2]][3].
+I'm a Software Engineer currently working for the amazing team at [Canva](https://www.canva.com/about/) and living in Brisbane. You can find me on [![Twitter][1.2]][1]  or [![LinkedIn][3.2]][3].
 
 <!--
 ## &#x270d; Blog & Writing
