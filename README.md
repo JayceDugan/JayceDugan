@@ -4,7 +4,7 @@
 
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Ex-Canva Software Engineer evolved to AI Engineer building the future of recruitment at [Nextplay](https://app.nextplay.ai/login). living in Brisbane. You can find me on [![Twitter][1.2]][1]  or [![LinkedIn][3.2]][3].
+AI Engineer building the future of recruitment at [Nextplay](https://app.nextplay.ai/login). living in Brisbane. You can find me on [![Twitter][1.2]][1]  or [![LinkedIn][3.2]][3].
 
 <!--
 ## &#x270d; Blog & Writing
